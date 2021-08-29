@@ -17,7 +17,7 @@
 4. 设置api网关
 ![](./img/003.png)
 
-5. 得到一个访问路径类似
+5. 得到一个访问路径类似 `https://service-xxxx-xxxx.sh.apigw.tencentcs.com/release/my_email`
 
 
 6. 开始使用
